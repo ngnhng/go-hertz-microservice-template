@@ -1,6 +1,6 @@
 # (WIP) Go API Server Template
 
--   An opinionated template for building Go RESTful APIs using [Hertz](github.com/cloudwego/hertz) and [fx](github.com/uber-go/fx).
+-   An opinionated template for building Go RESTful APIs using [Hertz](https://github.com/cloudwego/hertz) and [fx](https://github.com/uber-go/fx).
 
 -   Goals:
 
