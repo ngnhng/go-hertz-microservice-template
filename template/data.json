@@ -1,0 +1,19 @@
+{
+    "*": {
+        "GoModule": "github.com/template/hello",
+        "ServiceName": "hello",
+        "UseApacheThrift": false
+    },
+    "main.go": {
+        "MainData": "this is customized render data"
+    },
+    "router_gen.go": {
+        "RouterPkgPath": "{GoModule}/core/router",
+        "HandlerPkgPath": "{GoModule}/core/handler"
+    },
+
+    "router.go": {
+        "RouterPkgPath": "{GoModule}/core/router",
+        "HandlerPkgPath": "{GoModule}/core/handler"
+    }
+}
